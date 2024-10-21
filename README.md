@@ -11,3 +11,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
 <br>
 <br>
+<img src="https://github.com/Vitorsena32/Projeto-Conversor-Moedas/blob/main/assets/img-conversor.png"/>
